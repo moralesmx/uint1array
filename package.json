@@ -1,0 +1,21 @@
+{
+  "name": "uint1array",
+  "version": "1.0.0",
+  "description": "JavaScript missing 1-bit TypedArray",
+  "license": "ISC",
+  "main": "dist/index.js",
+  "author": {
+    "name": "Luis Angel Morales Romo",
+    "email": "luis@insist.com.mx",
+    "url": "https://github.com/moralesmx"
+  },
+  "repository": {
+    "url": "https://github.com/moralesmx/uint1array"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
